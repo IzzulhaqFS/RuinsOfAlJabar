@@ -1,2 +1,9 @@
 # RuinsOfAlJabar
-Repository untuk Final Project PBO 2021
+
+Kelompok 3 PBO-D 2021
+
+|NRP           |Nama                   |
+|:------------:|:---------------------:|
+|05111840000023|Izzulhaq Fawwaz Syauqiy|
+| | |
+
